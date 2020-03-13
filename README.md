@@ -1,6 +1,7 @@
 # Google IT Automation with Python Professional Certificate
 ## Offered by Google
 <br>
+
 #### Course's assessment
 
 | Assessment | Description |
@@ -12,6 +13,7 @@
 | Final Project | Implement an algorithm which counts the all words in a text file. Beside the text processing, I also need to remove punctuation, ignore case, number and ignore uninteresting/ irrelevent words |
 | Practice Notebook Reading And Writing Files | Interact with Operating system using Python and Linux: read/ write/ manage file, dictionaries, CSV, etc  |
 <br>
+
 #### My extended side project
 
 | No | Description |
