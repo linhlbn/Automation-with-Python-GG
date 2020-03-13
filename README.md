@@ -16,8 +16,8 @@
 
 | Assessment | Description |
 | ----------- | ----------- |
-|  |   |
+| Practice Notebook Reading And Writing Files | Interact with Operating system using Python and Linux: read/ write/ manage file, dictionaries, CSV, etc  |
 |  |   |
 
 
-##### to be continue ...
+##### to be continued with other courses, books, news, and side projects about Computer/ Data Science...
