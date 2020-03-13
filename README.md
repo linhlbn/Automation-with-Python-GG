@@ -1,7 +1,8 @@
 # Google IT Automation with Python Professional Certificate
 ## Offered by Google
+<br>
 
-##### Chapter 1
+##### Course's assessment
 
 | Assessment | Description |
 | ----------- | ----------- |
@@ -10,14 +11,15 @@
 | Code Reuse | Make the Zoo (class) applying **Composition** concept to add more specific animals which are using **Inheritance** from the Animal (class) |
 | Putting It All Together | Generate a report all the users who are using the some machines in the event log  |
 | Final Project | Implement an algorithm which counts the all words in a text file. Beside the text processing, I also need to remove punctuation, ignore case, number and ignore uninteresting/ irrelevent words |
-| Linh's project | Sentiment analysis a chatting paragraph - update soon|
-
-##### Chapter 2
-
-| Assessment | Description |
-| ----------- | ----------- |
 | Practice Notebook Reading And Writing Files | Interact with Operating system using Python and Linux: read/ write/ manage file, dictionaries, CSV, etc  |
-|  |   |
+
+
+##### My extended side project
+
+| No | Description |
+| ----------- | ----------- |
+| n/a | Sentiment analysis a chatting paragraph - update soon|
+| _ | _ |
 
 <br><br>
 #### **to be continued with other courses, books, news, and side projects about Computer/ Data Science...**
