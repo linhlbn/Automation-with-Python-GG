@@ -1,8 +1,7 @@
 # Google IT Automation with Python Professional Certificate
 ## Offered by Google
 <br>
-
-##### Course's assessment
+#### Course's assessment
 
 | Assessment | Description |
 | ----------- | ----------- |
@@ -12,9 +11,8 @@
 | Putting It All Together | Generate a report all the users who are using the some machines in the event log  |
 | Final Project | Implement an algorithm which counts the all words in a text file. Beside the text processing, I also need to remove punctuation, ignore case, number and ignore uninteresting/ irrelevent words |
 | Practice Notebook Reading And Writing Files | Interact with Operating system using Python and Linux: read/ write/ manage file, dictionaries, CSV, etc  |
-
-
-##### My extended side project
+<br>
+#### My extended side project
 
 | No | Description |
 | ----------- | ----------- |
