@@ -1,5 +1,5 @@
 # Google IT Automation with Python Professional Certificate
-## Offerd by Google
+## Offered by Google
 
 ##### Chapter 1
 
