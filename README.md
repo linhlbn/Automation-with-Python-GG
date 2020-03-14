@@ -16,9 +16,9 @@
 
 #### My extended side project
 
-| No | Description |
+| Content | Description |
 | ----------- | ----------- |
-| n/a | Sentiment analysis a chatting paragraph - update soon|
+| Sentiment Analysis | My idea is: suppose an online dating application company releases a package/ promotion called "relationship evaluate" to improve the revenue, this feature would help users have more insight about their conversation in a privacy way |
 | _ | _ |
 
 <br><br>
