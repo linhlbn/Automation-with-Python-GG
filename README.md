@@ -18,8 +18,8 @@
 
 | Content | Description |
 | ----------- | ----------- |
-| Sentiment Analysis | My idea is: suppose an online dating application company releases a package/ promotion called "relationship evaluate" to improve the revenue, this feature would help users have more insight about their conversation in a privacy way |
-| _ | _ |
+| Sentiment Analysis | My idea is: suppose an online dating application company releases a package/ promotion called "relationship evaluate" to improve the revenue beside with traditional promotion packages... |
+| to be continued | to be continued |
 
 <br><br>
 #### **to be continued with other courses, books, news, and side projects about Computer/ Data Science...**
