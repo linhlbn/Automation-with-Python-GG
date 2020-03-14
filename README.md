@@ -23,7 +23,7 @@
 
 <br><br>
 
-**I have pushed the above link for the copyright/ license, if I have something wrong here, please kindly contact me via `e1601144@edu.vamk.fi`. Thank you :)**
+**I have pushed the link (click the keyword) for the copyright/ license, if I have something wrong here, please kindly contact me via `e1601144@edu.vamk.fi`. Thank you :)**
 
 <br><br>
 #### **to be continued with other courses, books, news, and side projects about Computer/ Data Science...**
